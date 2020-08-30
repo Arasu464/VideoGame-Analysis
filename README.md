@@ -43,20 +43,16 @@ Bivariate Analysis is done comparing two variables with relevant data present in
 
 ### Results and Interpretation
 The experiment is done by the above mentioned method and it was possible to analyse the genre of games sold out at high rate:
-1. Pie Chart: Pie chart is created for the type of games under genre column and the rating commonly given for games. The result is as shown in belo figure:
-
+1. Pie Chart: Pie chart is created for the type of games under genre column and the rating commonly given for games. The result is as shown in below figure:
 ![](Visualizations/Pie%20Chart.png)
 
 2. Word Cloud : The text analysis is made with the genre of movies as univariate analysis approach. Finally, a word cloud is created for the maximum no of genre of games sold in “Big Text” and least will be “ Small text”. The output will be as shown in Figure:
-
 ![](Visualizations/WordCloud.png)
 
 3. Histogram is plotted between the columns User Score and Critic Score. The output is as shown in Figure:
-
 ![](Visualizations/Histogram.png)
 
 4. Box Plot is plotted with the bivariate analysis method. This is plotted between User score and Critic Score. The output is as shown in Figure:
-
 ![](Visualizations/Boxplot.png)
 
 ### Conclusion
