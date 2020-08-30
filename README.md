@@ -42,3 +42,26 @@ Bivariate Analysis is done comparing two variables with relevant data present in
 6. Box Plot: User Score, Critic Score
 
 ### Results and Interpretation
+The experiment is done by the above mentioned method and it was possible to analyse the genre of games sold out at high rate:
+1. Pie Chart: Pie chart is created for the type of games under genre column and the rating commonly given for games. The result is as shown in belo figure:
+
+![](Visualizations/Pie%20Chart.png)
+
+2. Word Cloud : The text analysis is made with the genre of movies as univariate analysis approach. Finally, a word cloud is created for the maximum no of genre of games sold in “Big Text” and least will be “ Small text”. The output will be as shown in Figure:
+
+![](Visualizations/WordCloud.png)
+
+3. Histogram is plotted between the columns User Score and Critic Score. The output is as shown in Figure:
+
+![](Visualizations/Histogram.png)
+
+4. Box Plot is plotted with the bivariate analysis method. This is plotted between User score and Critic Score. The output is as shown in Figure:
+
+![](Visualizations/Boxplot.png)
+
+### Conclusion
+
+The data analysis is made with video games by using descriptive, exploratory analysis. This gives a clear picture of most games with respect to genre rating and global sales in the market. This is done with various methods of univariate and bivariate analysis. This consists of pictorial, text visualizations of data present in the dataset. The comparison is done between the sales ,genres and the ratings attributes present in the dataset. The limitation of the analysis will be the understanding the real attributes of the dataset and applying the correct method to get the desired output as effective. The representation of the data can be predictive but not in all scenarios.
+
+Finally, the outcome is resulted with the maximum no of genre game with ratings by using text analysis. Other Visualizations with the data is done with Histogram, Bar and Pie chart. The above analysis convey that the Action games has the highest no of Ratings among the people. The futuristic improvement is to predict by performing some higher order polynomial with some advanced method of regression. This could give a better rate of prediction with finding the best parameters by performing the analysis methods
+
